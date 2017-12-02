@@ -1,5 +1,6 @@
 main(){
-	printf("sss")
+    printf("sss");
+    printf("ssssss");
 	
 }
 
